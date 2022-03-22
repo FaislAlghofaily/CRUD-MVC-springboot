@@ -5,4 +5,4 @@ technologies used:
 Mybatis,
 Thymeleaf,
 Selenium,
-Encryption,
+Encryption
